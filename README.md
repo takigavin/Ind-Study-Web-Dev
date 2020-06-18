@@ -9,8 +9,12 @@ gavinhorner0@gmail.com
 ## USAGE
 Once on the form.php page, fill out the form as needed and click submit. You will then be prompted for confirmation, if confirmed, then you will be taken to the submission page and sent an email that it worked correctly. A query will also be created within the table containing all of your given information. 
 
+![](Screenshots/Functionality/Form.PNG "Initial Form")
+![](Screenshots/Functionality/Confirmation.PNG "Confirmation Page")
+![](Screenshots/Functionality/Submission.PNG "Submission Page")
 
-
+![](Screenshots/Demonstrated Errors/Form with errors.PNG "Initial Form with Errors")
+![](Screenshots/Demonstrated Errors/Error confirmation.PNG "Error Confirmation Page")
 
 
 ## ABOUT
