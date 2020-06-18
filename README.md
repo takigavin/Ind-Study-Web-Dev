@@ -11,6 +11,8 @@ Once on the form.php page, fill out the form as needed and click submit. You wil
 
 ![](Screenshots/Functionality/Form.PNG "Initial Form")
 ![](Screenshots/Functionality/Confirmation.PNG "Confirmation Page")
+
+
 ![](Screenshots/Functionality/Submission.PNG "Submission Page")
 
 ![](Screenshots/Demonstrated_Errors/Form_with_errors.PNG "Initial Form with Errors")
