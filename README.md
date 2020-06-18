@@ -13,8 +13,8 @@ Once on the form.php page, fill out the form as needed and click submit. You wil
 ![](Screenshots/Functionality/Confirmation.PNG "Confirmation Page")
 ![](Screenshots/Functionality/Submission.PNG "Submission Page")
 
-![](Screenshots/Demonstrated Errors/Form_with_errors.PNG "Initial Form with Errors")
-![](Screenshots/Demonstrated Errors/Error_confirmation.PNG "Error Confirmation Page")
+![](Screenshots/Demonstrated_Errors/Form_with_errors.PNG "Initial Form with Errors")
+![](Screenshots/Demonstrated_Errors/Error_confirmation.PNG "Error Confirmation Page")
 
 
 ## ABOUT
